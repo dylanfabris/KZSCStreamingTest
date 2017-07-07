@@ -1,2 +1,2 @@
-# KZSC-Android-App
 # KZSCStreamingTest
+download APK: https://goo.gl/CvqKMu
