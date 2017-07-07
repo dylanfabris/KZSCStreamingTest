@@ -1,1 +1,2 @@
 # KZSC-Android-App
+# KZSCStreamingTest
